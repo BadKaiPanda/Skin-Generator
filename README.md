@@ -1,7 +1,7 @@
 Skin-Generator
 ==============
 
-Generate 2D representations of Minecraft player skins
+Fetch the skin of any Minecraft player and convert it into a 2D image that's human-viewable (doesn't look like the skin file)
 
 Usage
 =====
