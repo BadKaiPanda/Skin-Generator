@@ -8,6 +8,8 @@ Usage
 
 To use this just upload it your web server and visit the page, example: `http://yourdomain.com/skin.php?player={name}`
 
+For usage using Face's, , example: `http://yourdomain.com/face.php?player={name}`
+
 You can easily use this in any page by just using an <img> tag, here is an example of how to use it in a page
 ```html
 <div class="someclass">
